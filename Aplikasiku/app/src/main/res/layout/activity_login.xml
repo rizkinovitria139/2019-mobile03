@@ -43,7 +43,7 @@
 		android:hint="Enter Your Email"
 		app:layout_constraintLeft_toLeftOf="parent"
 		app:layout_constraintRight_toRightOf="parent"
-		app:layout_constraintTop_toBottomOf="@id/reset_code"
+		app:layout_constraintTop_toBottomOf="@id/edt_reset_code"
 		/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
